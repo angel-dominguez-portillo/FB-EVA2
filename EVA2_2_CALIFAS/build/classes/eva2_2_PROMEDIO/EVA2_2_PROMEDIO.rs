@@ -1,2 +1,0 @@
-eva2_2_califas.EVA2_2_CALIFAS
-eva2_2_promedio.EVA2_2_PROMEDIO
